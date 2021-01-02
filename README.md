@@ -7,3 +7,10 @@ Most of the projects that I worked on in my professional carreer can be read in 
 
 
 [![Mazzi's github stats](https://github-readme-stats.vercel.app/api?username=mazzi)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mazzi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+You can get in touch using one of these:
+
+* [lmazzitelli@pm.me](mailto:lmazzitelli@pm.me)
+* [linkedin.com/lmazzitelli](http://www.linkedin.com/in/lmazzitelli)
+* [keybase.io/mazzi](https://keybase.io/mazzi)
+* [GPG public key](https://mazzi.github.io/lmazzitelli.asc).
