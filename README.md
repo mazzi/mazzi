@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mazzi)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ```
                        .,,uod8B8bou,,.
               ..,uod8BBBBBBBBBBBBBBBBRPFT?l!i:.
