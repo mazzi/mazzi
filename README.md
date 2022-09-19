@@ -13,4 +13,4 @@ You can get in touch using one of these:
 * [linkedin.com/lmazzitelli](http://www.linkedin.com/in/lmazzitelli)
 * [keybase.io/mazzi](https://keybase.io/mazzi)
 * [GPG public key](https://mazzi.github.io/lmazzitelli.asc).
-* [Sponsorship](https://github.com/sponsors/mazzi)
+* [Github Sponsors](https://github.com/sponsors/mazzi)
